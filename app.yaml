@@ -1,5 +1,6 @@
-application: ga-beacon
-version: 11
+# application: ga-beacon
+# version: 11
+# runtime: go113
 runtime: go
 api_version: go1
 
